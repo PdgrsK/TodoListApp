@@ -8,7 +8,7 @@ namespace TodoListApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the To-Do List Application!");
+            Console.WriteLine("Welcome to the Enhanced To - Do List!");
 
             // Создаем экземпляр менеджера списка дел
             var todoManager = new TodoListManager();
